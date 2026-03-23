@@ -2,7 +2,9 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=warp&color=0:0d1117,50:7c3aed,100:0d1117&height=20&section=header&animation=fadeIn)
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" height="220px" style="object-fit:cover; border-radius:12px; opacity:0.85"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+
+<br/>
 
 ### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Kriti+%F0%9F%91%8B;Engineering+Student;Code+%7C+Create+%7C+Contribute" alt="Typing SVG" />
 
