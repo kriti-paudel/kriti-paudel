@@ -1,12 +1,16 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=warp&color=0:0d1117,50:7c3aed,100:0d1117&height=210&section=header&text=Hey%20there!%20I'm%20Kriti%20%F0%9F%91%8B&fontSize=48&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Engineering%20Student%20%7C%20Code%20%7C%20Create%20%7C%20Contribute&descSize=17&descAlignY=75&descColor=d8b4fe)
+![banner](https://capsule-render.vercel.app/api?type=warp&color=0:0d1117,50:7c3aed,100:0d1117&height=20&section=header&animation=fadeIn)
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%" height="220px" style="object-fit:cover; border-radius:12px; opacity:0.85"/>
+
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Kriti+%F0%9F%91%8B;Engineering+Student;Code+%7C+Create+%7C+Contribute" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-<img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+---
 
 ### `$ whoami`
 
@@ -19,14 +23,10 @@ stack    : C++ · Python · HTML · CSS
 mindset  : Learn → Build → Improve → Repeat
 ```
 
-<br/>
-
 - 🔭 &nbsp; Currently working on fun side projects
 - 🌱 &nbsp; Always picking up something new in tech
 - 💡 &nbsp; Interested in software dev & problem solving
 - ✨ &nbsp; Turning ideas into working code, one commit at a time
-
-<br clear="right"/>
 
 ---
 
@@ -51,8 +51,6 @@ mindset  : Learn → Build → Improve → Repeat
 
 </div>
 
-<br/>
-
 ---
 
 ## `$ cat github-stats.log`
@@ -70,8 +68,6 @@ mindset  : Learn → Build → Improve → Repeat
 
 </div>
 
-<br/>
-
 ---
 
 ## `$ tail -f activity.log`
@@ -81,8 +77,6 @@ mindset  : Learn → Build → Improve → Repeat
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kriti-paudel&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=7c3aed&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-<br/>
 
 ---
 
@@ -94,8 +88,6 @@ mindset  : Learn → Build → Improve → Repeat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kriti-paudel)
 
 </div>
-
-<br/>
 
 ---
 
